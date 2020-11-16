@@ -1,0 +1,11 @@
+server:
+    port: 8080
+
+loan:
+    interest: 10.00
+    factor: 2
+    manager_Bulgaria: Roman
+    manager_Moldova: Igor
+    manager_Latvia: Ivar
+
+---
